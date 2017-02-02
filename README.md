@@ -1,1 +1,3 @@
-# horridly.com
+# horridity.com
+
+static website
